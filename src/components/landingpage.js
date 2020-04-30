@@ -18,7 +18,7 @@ class Landing extends Component{
                        <h1 destroy>
                     
                         <Typing speed={.1}>
-                        HELLO! MY NAME IS TEJAS SAMEERA. Test
+                        HELLO! MY NAME IS TEJAS SAMEERA.
                             <Typing.Delay ms = {2000}/>
                             <Typing.Backspace speed = {1} count = {32}/>
                             <Typing.Delay ms = {500}/>
