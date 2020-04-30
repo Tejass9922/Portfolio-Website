@@ -9,7 +9,7 @@ class App extends Component{
     return(
   <div className="demo-big-content">
     <Layout>
-    <Header className="header-color" title = {<a href = "/" style = {{color: 'white'}}>My Portfolio</a>} scroll>
+    <Header className="header-color" title = {<a href = "https://tejass9922.github.io" style = {{color: 'white'}}>My Portfolio</a>} scroll>
             <Navigation>
                 <Link to="/AboutMe">About Me</Link>
                 <a href = "https://github.com/Tejass9922/Resume/blob/master/Sameera_Tejas_Resume.pdf" target = "_blank">Resume</a>
